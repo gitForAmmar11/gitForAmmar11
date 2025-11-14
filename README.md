@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on open source project!
 - 🎡 I already completed several software and hardware projects!
 - 🎆 I have clear knowledge about data structure and algorithm!
-- 💬 Ask me about C, C++, JAVA, Python, html, css, javascript, javafx, scenebuilder, php, mysql
+- 💬 Ask me about C, C++, JAVA, Python, html, css, javascript, javafx, react, node.js, scenebuilder, php, mysql, SQLite!
 - 📫 Contact me via e-mail: mdammarhossain11@gmail.com
 <!---
 gitForAmmar11/gitForAmmar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
