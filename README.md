@@ -3,6 +3,9 @@
 
 <h1 align="center">Hi I'm Md. Ammar Hossain</h1>
 
+<h3 align="center">Undergraduate Teaching Assistant | Programmerer from Bangladesh | I have a great passion in programming, research and development. I am currently in my final year of studying CSE at United International University. HTML</h3>
+
+
 - 👋 Hi, I’m @gitForAmmar11
 - 👀 I’m interested in programing!
 - 🌱 I’m currently learning Maching Learning Tools!
