@@ -5,6 +5,9 @@
 
 <h3 align="center">Undergraduate Teaching Assistant | Programmerer from Bangladesh | I have a great passion in programming, research and development. I am currently in my final year of studying CSE at United International University.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="gitForAmmar11" /> </p>
+
+
 
 - 👀 I’m interested in programing!
 - 🌱 I’m currently learning Maching Learning Tools!
