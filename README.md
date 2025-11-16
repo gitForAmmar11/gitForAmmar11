@@ -32,10 +32,6 @@
 <a href="https://x.com/MdAmmarHossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" width="40" /></a>
 <a href="https://www.threads.net/@ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/threads.svg" alt="@ammar_hossain11" height="30" width="40" /></a>
 
-
-
-
-
 </p>
 
 
