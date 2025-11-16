@@ -30,8 +30,7 @@
 <a href="https://wa.me/message/KDS74VCYBXMTI1?src=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="AmmarHossain11" height="30" width="40" /></a>
 <a href="https://t.me/AmmarHossain11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AmmarHossain11" height="30" width="40" /></a>
 <a href="https://x.com/MdAmmarHossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" width="40" /></a>
-<a href="https://www.threads.net/@ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/threads.svg" alt="@ammar_hossain11" height="30" width="40" />
-</a>
+<a href="https://www.threads.net/@ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/threads.svg" alt="@ammar_hossain11" height="30" width="40" /></a>
 
 
 
