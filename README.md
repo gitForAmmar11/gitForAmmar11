@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi I'm Md. Ammar Hossain</h1>
 
-<h3 align="center">Undergraduate Teaching Assistant | Programmerer from Bangladesh | I have a great passion in programming, research and development. I am currently in my final year of studying CSE at United International University.</h3>
+<h3 align="center">I am a <strong>Computer Science and Engineering student</strong> at United International University (UIU). Currently, I work as an <strong>Undergraduate Teaching Assistant</strong> at UIU, and I have experience as an <strong>Editor</strong> at Aspect Series, <strong>Head of HR</strong> at UIU APP Forum, and <strong>Campus Ambassador</strong> at ICT Olympiad Bangladesh. I build productive relationships through effective communication and guidance, and I am committed to continuous learning while contributing effectively using my technical, analytical, and organizational strengths.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="gitForAmmar11" /> </p>
 
