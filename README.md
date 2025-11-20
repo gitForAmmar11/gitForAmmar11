@@ -16,6 +16,13 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 - 💬 Ask me about C, C++, JAVA, Python, html, css, javascript, javafx, react, node.js, scenebuilder, php, mysql, SQLite!
 - 📫 Contact me via e-mail: mdammarhossain11@gmail.com
 
+
+<h3 align="left">My Github Status:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" alt="gitForAmmar11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
@@ -50,12 +57,6 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 
 </p>
-
-<h3 align="left">My Github Status:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" alt="gitForAmmar11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
 
 <!---
 gitForAmmar11/gitForAmmar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
