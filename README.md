@@ -18,12 +18,11 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 
 <h3 align="left">My Github Status:</h3>
 
+![](https://nirzak-streak-stats.vercel.app/?user=gitForAmmar11&theme=transparent&hide_border=true)<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" alt="gitForAmmar11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
-
-![](https://nirzak-streak-stats.vercel.app/?user=gitForAmmar11&theme=transparent&hide_border=true)<br/>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
