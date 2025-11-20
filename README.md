@@ -6,8 +6,6 @@
 <h3 align="center">I am a Computer Science and Engineering student at United International University (UIU)<br> <br>
 Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have experience as an Editor at Aspect Series, Head of HR at UIU APP Forum, and Campus Ambassador at ICT Olympiad Bangladesh. I build productive relationships through effective communication and guidance, and I am committed to continuous learning while contributing effectively using my technical, analytical, and organizational strengths.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitForAmmar11" alt="gitForAmmar11" /></a> </p>
-
 
 - 👀 I’m interested in programing!
 - 🌱 I’m currently learning Maching Learning Tools!
