@@ -31,21 +31,10 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
     src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" 
     alt="GitHub Stats"
     height="180"
-  />
-
-  <!-- Most Used Languages (Right) -->
-  <img 
+  /><img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitForAmmar11&layout=compact&langs_count=8" 
     alt="Top Languages"
     height="180"
-  />
-
-</div>
-
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" 
-    alt="gitForAmmar11"
   />
 
 </div>
