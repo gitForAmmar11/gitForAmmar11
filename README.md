@@ -5,7 +5,6 @@
 <h3 align="center">I am a Computer Science and Engineering student at United International University (UIU)<br> <br>
 Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have experience as an Editor at Aspect Series, Head of HR at UIU APP Forum, and Campus Ambassador at ICT Olympiad Bangladesh. I build productive relationships through effective communication and guidance, and I am committed to continuous learning while contributing effectively using my technical, analytical, and organizational strengths.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="gitForAmmar11" /> </p>
 
 - 👀 I’m interested in programing!
 - 🌱 I’m currently learning Maching Learning Tools!
@@ -14,8 +13,10 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 - 🎆 I have clear knowledge about data structure and algorithm!
 - 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, javascript, javafx, react, node.js, scenebuilder, php, mysql, SQLite!</strong>
 - 📫 <strong>Contact me via e-mail:</strong> mdammarhossain11@gmail.com
-
+------------
 <h3 align="left">My Github Status:</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="gitForAmmar11" /> </p>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=gitForAmmar11&theme=transparent&hide_border=true)<br/>
 
@@ -37,6 +38,8 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
     </td>
   </tr>
 </table>
+
+---------
 
 <h3 align="left">Languages and Tools:</h3>
 
