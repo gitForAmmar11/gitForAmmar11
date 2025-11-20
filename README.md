@@ -55,8 +55,8 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 </p>
 
 <h3 align="left">My Github Status:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musfiqurr661&show_icons=true&locale=en" alt="musfiqurr661" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurr661&" alt="musfiqurr661" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitForAmmar11&" alt="gitForAmmar11" /></p>
 
 <!---
 gitForAmmar11/gitForAmmar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
