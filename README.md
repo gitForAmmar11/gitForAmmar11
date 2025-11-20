@@ -6,7 +6,7 @@
 <h3 align="center">I am a Computer Science and Engineering student at United International University (UIU)<br> <br>
 Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have experience as an Editor at Aspect Series, Head of HR at UIU APP Forum, and Campus Ambassador at ICT Olympiad Bangladesh. I build productive relationships through effective communication and guidance, and I am committed to continuous learning while contributing effectively using my technical, analytical, and organizational strengths.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfiqurr661&label=Profile%20views&color=0e75b6&style=flat" alt="musfiqurr661" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitForAmmar11&label=Profile%20views&color=0e75b6&style=flat" alt="gitForAmmar11" /> </p>
 
 - 👀 I’m interested in programing!
 - 🌱 I’m currently learning Maching Learning Tools!
