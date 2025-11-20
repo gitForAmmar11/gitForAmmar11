@@ -24,19 +24,23 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" 
-    alt="gitForAmmar11"
-  />
-
+  <!-- GitHub Stats (Left) -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" 
-    alt="gitForAmmar11"
+    alt="GitHub Stats"
+    height="180"
   />
+
+  <!-- Most Used Languages (Right) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitForAmmar11&layout=compact&langs_count=8" 
+    alt="Top Languages"
+    height="180"
+  />
+
+</div>
 
   
   <img 
