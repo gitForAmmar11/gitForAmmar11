@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi I'm Md. Ammar Hossain</h1>
 
-<h3 align="center">I am a Computer Science and Engineering student at United International University (UIU)<br> <br>
-Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have experience as an Editor at Aspect Series, Head of HR at UIU APP Forum, and Campus Ambassador at ICT Olympiad Bangladesh. I build productive relationships through effective communication and guidance, and I am committed to continuous learning while contributing effectively using my technical, analytical, and organizational strengths.</h3>
+<h3 align="center">I am a Computer Science and Engineering student at United International University (UIU)</h3>h3> <br> <br>
+<h5 align="center">Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have experience as an Editor at Aspect Series, Head of HR at UIU APP Forum, and Campus Ambassador at ICT Olympiad Bangladesh. I build productive relationships through effective communication and guidance, and I am committed to continuous learning while contributing effectively using my technical, analytical, and organizational strengths.</h5>
 
 
 - 👀 I’m interested in programing!
