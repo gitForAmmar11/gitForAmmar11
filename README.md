@@ -52,13 +52,11 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 <a href="https://www.figma.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 
-
-
-
-
 </p>
 
-
+<h3 align="left">My Github Status:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musfiqurr661&show_icons=true&locale=en" alt="musfiqurr661" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurr661&" alt="musfiqurr661" /></p>
 
 <!---
 gitForAmmar11/gitForAmmar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
