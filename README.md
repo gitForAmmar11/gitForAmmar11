@@ -11,7 +11,7 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 - 💞️ I’m looking to collaborate on open source project!
 - 🎡 I already completed several software and hardware projects!
 - 🎆 I have clear knowledge about data structure and algorithm!
-- 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, javascript, javafx, react, node.js, scenebuilder, php, mysql, SQLite!</strong>
+- 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, javascript, javafx, react, node.js, scenebuilder, php, Django, mysql, SQLite!</strong>
 - 📫 <strong>Contact me via e-mail:</strong> mdammarhossain11@gmail.com
 ------------
 <h3 align="left">My Github Status:</h3>
