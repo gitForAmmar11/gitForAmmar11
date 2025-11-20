@@ -1,4 +1,3 @@
-
 ![Ammar Business Card](https://github.com/user-attachments/assets/e51b0b79-2c7f-4d64-9e73-8cd54e980c67)
 
 <h1 align="center">Hi I'm Md. Ammar Hossain</h1>
@@ -23,7 +22,8 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" alt="gitForAmmar11" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" alt="gitForAmmar11" /></p> <br/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
