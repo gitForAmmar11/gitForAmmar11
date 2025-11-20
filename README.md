@@ -24,6 +24,21 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" 
+    alt="gitForAmmar11"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" 
+    alt="gitForAmmar11"
+  />
+
+</div>
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
