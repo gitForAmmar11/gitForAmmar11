@@ -23,23 +23,9 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://github.com/gitForAmmar11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammadammar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadammar11" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@VoiceofAmmar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@VoiceofAmmar11" height="30" width="40" /></a>
-<a href="https://fb.com/mohammad.ammar.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad.ammar.11" height="30" width="40" /></a>
-<a href="https://instagram.com/ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ammar_hossain11" height="30" width="40" /></a>
-<a href="https://www.threads.net/@ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/threads.svg" alt="@ammar_hossain11" height="30" width="40" /></a>
-<a href="https://discord.com/users/mohammad.ammar.hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammad.ammar.hossain11" height="30" width="40" /></a>
-<a href="https://wa.me/message/KDS74VCYBXMTI1?src=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="AmmarHossain11" height="30" width="40" /></a>
-<a href="https://t.me/AmmarHossain11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AmmarHossain11" height="30" width="40" /></a>
-<a href="https://x.com/MdAmmarHossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" width="40" /></a>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
 <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -55,7 +41,21 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
+</p>
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://github.com/gitForAmmar11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammadammar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadammar11" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@VoiceofAmmar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@VoiceofAmmar11" height="30" width="40" /></a>
+<a href="https://fb.com/mohammad.ammar.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad.ammar.11" height="30" width="40" /></a>
+<a href="https://instagram.com/ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ammar_hossain11" height="30" width="40" /></a>
+<a href="https://www.threads.net/@ammar_hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/threads.svg" alt="@ammar_hossain11" height="30" width="40" /></a>
+<a href="https://discord.com/users/mohammad.ammar.hossain11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammad.ammar.hossain11" height="30" width="40" /></a>
+<a href="https://wa.me/message/KDS74VCYBXMTI1?src=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="AmmarHossain11" height="30" width="40" /></a>
+<a href="https://t.me/AmmarHossain11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="AmmarHossain11" height="30" width="40" /></a>
+<a href="https://x.com/MdAmmarHossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" height="30" width="40" /></a>
 </p>
 
 <!---
