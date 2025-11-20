@@ -15,30 +15,28 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 - 💬 Ask me about <strong>C, C++, JAVA, Python, html, css, javascript, javafx, react, node.js, scenebuilder, php, mysql, SQLite!</strong>
 - 📫 <strong>Contact me via e-mail:</strong> mdammarhossain11@gmail.com
 
-
 <h3 align="left">My Github Status:</h3>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=gitForAmmar11&theme=transparent&hide_border=true)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" alt="gitForAmmar11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" alt="gitForAmmar11" /></p>
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  
-  <!-- GitHub Stats (Left) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" 
-    alt="GitHub Stats"
-    height="180"
-  /><img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitForAmmar11&layout=compact&langs_count=8" 
-    alt="Top Languages"
-    height="180"
-  />
-
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=gitForAmmar11&show_icons=true&locale=en" 
+        alt="gitForAmmar11" 
+        height="180"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=gitForAmmar11&show_icons=true&locale=en&layout=compact" 
+        alt="gitForAmmar11" 
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 
