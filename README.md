@@ -40,7 +40,8 @@ Currently, I work as an Undergraduate Teaching Assistant at UIU, and I have expe
 </table>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musfiqurr661" alt="musfiqurr661" /></a> </p>
--------------------
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
